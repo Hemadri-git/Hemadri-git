@@ -16,4 +16,4 @@
 3️⃣ [URL Shortener (Bit.ly Clone)](https://github.com/your-github/url-shortener)  
 
 📌 **📫 Let's Connect!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/hemadri116/)) | ✉️ [Email](bathulahemadri@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hemadri116/) | ✉️ [Email](bathulahemadri@gmail.com)  
