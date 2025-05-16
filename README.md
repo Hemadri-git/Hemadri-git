@@ -16,7 +16,7 @@ Hi! I'm **Hemadri**, a passionate and aspiring **Java Full Stack Developer** fro
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java`, `Python`, `SQL`, `JavaScript`  
+`Java`, `SQL`, `JavaScript`  
 
 **Backend:**  
 `Spring Boot`, `Hibernate`, `REST APIs`, `Microservices`  
@@ -25,7 +25,7 @@ Hi! I'm **Hemadri**, a passionate and aspiring **Java Full Stack Developer** fro
 `HTML`, `CSS`, `JavaScript`, `React.js`, `Bootstrap`  
 
 **Databases:**  
-`MySQL`, `Oracle`, `PostgreSQL`  
+`MySQL`, `Oracle` 
 
 **Tools & Platforms:**  
 `Git`, `GitHub`, `Eclipse`, `IntelliJ IDEA`, `VS Code`, `Postman`, `Maven`  
@@ -45,7 +45,7 @@ A responsive React app that displays real-time weather info using OpenWeatherMap
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hemadri116)  
-- 📧 hemadri.email@gmail.com  
+- 📧 bathulahemadri@gmail.com  
 
 ---
 
