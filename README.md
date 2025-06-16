@@ -34,7 +34,7 @@ Hi! I'm **Hemadri**, a passionate and aspiring **Java Full Stack Developer** fro
 
 ## 📌 Projects
 
-### 🧑‍🎓 [Student Management System](https://github.com/Hemadri-git/student-management-system-springboot)  
+### 🧑‍🎓 [Student Management System](https://github.com/Hemadri-git/student-management-system.git)  
 A full-stack CRUD application to manage student records using Spring Boot, Thymeleaf, and MySQL.
 
 ### 🌦️ [Weather Forecast App](https://github.com/Hemadri-git/weather-forecast-app)  
