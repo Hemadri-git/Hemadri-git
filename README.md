@@ -62,7 +62,6 @@ I enjoy building real-world applications, solving backend challenges, and contin
 * Optimized message retrieval using pagination and database indexing
 * Enabled instant communication without page refresh
 
-👉 Project Link: *(add repo link)*
 
 ---
 
@@ -74,7 +73,6 @@ I enjoy building real-world applications, solving backend challenges, and contin
 * Designed normalized MySQL database for transaction management
 * Integrated frontend with backend APIs including validation and exception handling
 
-👉 Project Link: *(add repo link)*
 
 ---
 
