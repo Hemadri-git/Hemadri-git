@@ -1,53 +1,112 @@
-# 💻 Hemadri Bathula
+# Hi, I'm Hemadri Bathula 👋
 
-Hi! I'm **Hemadri**, a passionate and aspiring **Java Full Stack Developer** from Hyderabad, India.
+**Java Full Stack Developer | Spring Boot | React | REST APIs**
 
----
+I am a Java Full Stack Developer with hands-on experience in building scalable backend systems and responsive web applications using **Java, Spring Boot, React, and MySQL**.
 
-## 🚀 About Me
+I completed a one-year Full Stack apprenticeship where I developed production-style applications, designed secure REST APIs, and worked with modern client–server architecture following Agile practices.
 
-- 🎓 Recent B.Tech graduate in Information Technology from St. Martin’s Engineering College  
-- 🧠 Constantly learning new technologies like **Spring Boot**, **Microservices**, and **System Design**
-- 👨‍💻 I enjoy building backend APIs and full-stack applications using Java and React.js  
-- 📈 Actively contributing to GitHub and improving problem-solving through LeetCode & GFG  
+I enjoy building real-world applications, solving backend challenges, and continuously improving system performance and code quality.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Languages:**  
-`Java`, `SQL`, `JavaScript`  
+**Programming**
 
-**Backend:**  
-`Spring Boot`, `Hibernate`, `REST APIs`, `Microservices`  
+* Java, Java 8
+* Object-Oriented Programming
+* Collections & Exception Handling
 
-**Frontend:**  
-`HTML`, `CSS`, `JavaScript`, `React.js`, `Bootstrap`  
+**Backend**
 
-**Databases:**  
-`MySQL`, `Oracle` 
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* JWT Authentication
+* JDBC
 
-**Tools & Platforms:**  
-`Git`, `GitHub`, `Eclipse`, `IntelliJ IDEA`, `VS Code`, `Postman`, `Maven`  
+**Frontend**
+
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap
+
+**Database**
+
+* MySQL
+* Oracle SQL
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Maven
+* Postman
+* Swagger
+* IntelliJ IDEA
+* Eclipse
 
 ---
 
-## 📌 Projects
+## 💻 Featured Projects
 
-### 🧑‍🎓 [Student Management System](https://github.com/Hemadri-git/student-management-system.git)  
-A full-stack CRUD application to manage student records using Spring Boot, Thymeleaf, and MySQL.
+### 🔹 Real-Time Chat Application
 
-### 🌦️ [Weather Forecast App](https://github.com/Hemadri-git/weather-forecast-app)  
-A responsive React app that displays real-time weather info using OpenWeatherMap API.
+* Developed a real-time messaging system using **Spring Boot, WebSocket, and JWT Authentication**
+* Implemented secure user authentication and authorization
+* Designed REST APIs for chat rooms, users, and message storage
+* Optimized message retrieval using pagination and database indexing
+* Enabled instant communication without page refresh
 
----
-
-## 📫 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hemadri116)  
-- 📧 bathulahemadri@gmail.com  
+👉 Project Link: *(add repo link)*
 
 ---
 
-### ⚡ Fun Fact:
-I believe writing clean, efficient code is like solving a puzzle—and I love solving puzzles!  
+### 🔹 E-Commerce Application
+
+* Built a full-stack E-Commerce platform using **Spring Boot and React**
+* Implemented role-based authentication for Admin and Customer
+* Developed modules for product management, cart handling, and order placement
+* Designed normalized MySQL database for transaction management
+* Integrated frontend with backend APIs including validation and exception handling
+
+👉 Project Link: *(add repo link)*
+
+---
+
+## 📈 Professional Experience
+
+**Java Full Stack Apprentice — Naresh IT, Hyderabad**
+*June 2024 – June 2025*
+
+* Developed full-stack applications using Java, Spring Boot, and React
+* Designed and implemented **15+ RESTful APIs**
+* Integrated MySQL database using Spring Data JPA
+* Tested APIs using Postman and followed Agile development practices
+* Managed source code using Git version control
+
+---
+
+## 🎯 Areas of Interest
+
+* Backend Development
+* Scalable REST API Design
+* Secure Authentication Systems
+* Full Stack Application Development
+* System Performance Optimization
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/hemadri116
+* GitHub: https://github.com/Hemadri-git
+* Email: [bathulahemadri@gmail.com](mailto:bathulahemadri@gmail.com)
+
+---
+
+⭐ Always open to opportunities as a **Java Full Stack Developer** where I can contribute to building reliable and scalable software solutions.
