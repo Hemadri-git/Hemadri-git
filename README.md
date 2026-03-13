@@ -1,110 +1,228 @@
-# Hi, I'm Hemadri Bathula 👋
+# Hi there, I'm Hemadri Bathula 👋
 
-**Java Full Stack Developer | Spring Boot | React | REST APIs**
+> **Java Backend Developer** | Building Scalable REST APIs | Spring Boot Enthusiast
 
-I am a Java Full Stack Developer with hands-on experience in building scalable backend systems and responsive web applications using **Java, Spring Boot, React, and MySQL**.
-
-I completed a one-year Full Stack apprenticeship where I developed production-style applications, designed secure REST APIs, and worked with modern client–server architecture following Agile practices.
-
-I enjoy building real-world applications, solving backend challenges, and continuously improving system performance and code quality.
+Welcome to my GitHub! I'm a passionate backend developer focused on designing and building production-grade systems using Spring Boot and modern Java practices.
 
 ---
 
-## 🚀 Tech Stack
+## 🎯 About Me
 
-**Programming**
+I'm a Java Backend Developer with hands-on experience building **15+ production-style REST API endpoints** and full-stack applications. I'm passionate about writing clean, efficient code and solving complex technical problems.
 
-* Java, Java 8
-* Object-Oriented Programming
-* Collections & Exception Handling
-
-**Backend**
-
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* Hibernate
-* REST APIs
-* JWT Authentication
-* JDBC
-
-**Frontend**
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-
-**Database**
-
-* MySQL
-* Oracle SQL
-
-**Tools & Technologies**
-
-* Git & GitHub
-* Maven
-* Postman
-* Swagger
-* IntelliJ IDEA
-* Eclipse
+**Currently seeking:** Junior Developer / Associate Software Engineer roles in **Hyderabad**  
+**Available:** Immediately  
+**Location:** Hyderabad, India
 
 ---
 
-## 💻 Featured Projects
+## 💻 Tech Stack
 
-### 🔹 Real-Time Chat Application
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-* Developed a real-time messaging system using **Spring Boot, WebSocket, and JWT Authentication**
-* Implemented secure user authentication and authorization
-* Designed REST APIs for chat rooms, users, and message storage
-* Optimized message retrieval using pagination and database indexing
-* Enabled instant communication without page refresh
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-### 🔹 E-Commerce Application
-
-* Built a full-stack E-Commerce platform using **Spring Boot and React**
-* Implemented role-based authentication for Admin and Customer
-* Developed modules for product management, cart handling, and order placement
-* Designed normalized MySQL database for transaction management
-* Integrated frontend with backend APIs including validation and exception handling
-
-
----
-
-## 📈 Professional Experience
-
-**Java Full Stack Apprentice — Naresh IT, Hyderabad**
-*June 2024 – June 2025*
-
-* Developed full-stack applications using Java, Spring Boot, and React
-* Designed and implemented **15+ RESTful APIs**
-* Integrated MySQL database using Spring Data JPA
-* Tested APIs using Postman and followed Agile development practices
-* Managed source code using Git version control
+### Methodologies
+- **Agile/Scrum** | **Clean Code** | **SOLID Principles** | **MVC Architecture** | **REST API Design** | **JWT Authentication**
 
 ---
 
-## 🎯 Areas of Interest
+## 📌 Featured Projects
 
-* Backend Development
-* Scalable REST API Design
-* Secure Authentication Systems
-* Full Stack Application Development
-* System Performance Optimization
+### 1. 🏦 Banking Transaction System
+**A secure RESTful Banking API with complete transaction management**
+
+Designed and built a secure banking system supporting account management, fund transfers, and transaction history with ACID compliance.
+
+**Key Features:**
+- ✅ Account creation, deposits, withdrawals, and inter-account transfers
+- ✅ Real-time balance validation to prevent overdrafts
+- ✅ ACID-compliant transactions using @Transactional annotation
+- ✅ JWT-based authentication with role-based access control (Customer/Admin roles)
+- ✅ Custom exception handling (InsufficientFundsException, AccountNotFoundException)
+- ✅ Transaction history API with date-range filtering and pagination
+- ✅ 100% unit test coverage using JUnit
+
+**Tech Stack:** Java | Spring Boot | Spring Security | JWT | MySQL | Hibernate/JPA | REST APIs | JUnit
+
+**Key Metrics:**
+- 15+ API endpoints with full CRUD operations
+- 100% unit test coverage
+- ACID compliance for concurrent transactions
+
+🔗 **[View on GitHub](https://github.com/Hemadri-git/Banking-transaction-system)**
 
 ---
 
-## 📫 Connect With Me
+### 2. 🛍️ E-Commerce Order Management API
+**A comprehensive e-commerce backend system with order lifecycle management**
 
-* LinkedIn: https://linkedin.com/in/hemadri116
-* GitHub: https://github.com/Hemadri-git
-* Email: [bathulahemadri@gmail.com](mailto:bathulahemadri@gmail.com)
+Developed a full-featured e-commerce platform with product catalog, shopping cart, and end-to-end order tracking from placement to delivery.
+
+**Key Features:**
+- ✅ Product catalog management with categories and filtering
+- ✅ Shopping cart operations with real-time updates
+- ✅ Order lifecycle tracking (Pending → Confirmed → Shipped → Delivered)
+- ✅ JWT-based user authentication with role separation (Admin/Customer)
+- ✅ Admin capabilities: product management, inventory control, order management
+- ✅ Customer capabilities: product browsing, cart management, order placement
+- ✅ Complex relational schemas using OneToMany and ManyToMany JPA relationships
+- ✅ Automatic inventory synchronization preventing overselling
+- ✅ Paginated product search and filtering (by category, price range)
+- ✅ Hibernate query optimization for improved performance
+
+**Tech Stack:** Java | Spring Boot | MySQL | JPA/Hibernate | JWT Security | REST APIs | Postman
+
+**Key Metrics:**
+- Multi-role access control (Admin/Customer)
+- Complex data relationships (Users, Products, Orders, OrderItems, Categories)
+- Atomic inventory updates preventing race conditions
+- Optimized database queries for fast retrieval
+
+🔗 **[View on GitHub](https://github.com/Hemadri-git/-E-Commerce-Order-Management-API)**
 
 ---
 
-⭐ Always open to opportunities as a **Java Full Stack Developer** where I can contribute to building reliable and scalable software solutions.
+### 3. 📚 Student Management System
+**A full-stack CRUD application for student record management**
+
+Built a complete student management solution with admin panel for managing student records with responsive UI and optimized database design.
+
+**Key Features:**
+- ✅ Complete CRUD operations on student records
+- ✅ Dynamic server-side HTML views using Thymeleaf templates
+- ✅ Responsive UI with Bootstrap for cross-device compatibility
+- ✅ MVC architecture with clear separation of concerns
+- ✅ MySQL backend with optimized relational schema
+- ✅ Spring Data JPA for efficient database operations
+- ✅ Easy navigation and user-friendly interface
+
+**Tech Stack:** Java | Spring Boot | Thymeleaf | Bootstrap | MySQL | Spring Data JPA | Maven
+
+**Key Metrics:**
+- Full MVC implementation
+- Responsive design across all devices
+- Optimized database queries
+
+🔗 **[View on GitHub](https://github.com/Hemadri-git/student-management-system)**
+
+---
+
+## 📊 Key Achievements
+
+- ✨ **Built 15+ production-style REST API endpoints** with full CRUD operations
+- 🚀 **Optimized MySQL queries** achieving **25% performance improvement** through indexing strategies and query restructuring
+- 🛡️ **Implemented secure authentication** using JWT tokens and Spring Security
+- ✅ **Achieved 100% unit test coverage** using JUnit for all API endpoints
+- 🏗️ **Designed complex relational schemas** using OneToMany and ManyToMany JPA relationships
+- 🔄 **Managed concurrent transactions** with ACID compliance using @Transactional annotation
+- 👥 **Participated in Agile ceremonies** including sprint planning, daily stand-ups, and code reviews
+- 🎓 **Mastered full-stack development** combining Java/Spring Boot backend with React frontend
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Information Technology**  
+St. Martin's Engineering College, Hyderabad, India (2020 - 2024)
+
+**12th Grade (MPC)**  
+Narayana Junior College, Hyderabad, India (2018 - 2020)
+
+**10th Grade (SSC)**  
+Jai Jawahar High School, Hyderabad, India (2017 - 2018)
+
+---
+
+## 📚 Core Competencies
+
+### Backend Development
+- Spring Boot microservices architecture
+- REST API design and best practices
+- Spring Security and JWT authentication
+- Hibernate ORM and JPA relationships
+- Transaction management and ACID compliance
+
+### Database Design
+- Relational schema optimization
+- SQL query optimization
+- Indexing strategies for performance
+- Complex joins and aggregations
+
+### Full Stack Development
+- Spring Boot backend integration
+- React frontend development
+- HTML, CSS, JavaScript
+- Bootstrap responsive design
+- MVC architecture implementation
+
+### Software Engineering Practices
+- Agile/Scrum methodology
+- Git version control and feature branching
+- Unit testing with JUnit
+- Clean code and SOLID principles
+- Code reviews and collaboration
+
+---
+
+## 🌱 Currently Learning & Growing
+
+- Advanced Spring Boot microservices patterns
+- Cloud deployment (AWS/Azure)
+- Docker containerization
+- Kubernetes orchestration
+- Advanced React patterns
+- Database performance tuning
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussions about Java, Spring Boot, software architecture, and building scalable systems.
+
+📧 **Email:** [bathulahemadri@gmail.com](mailto:bathulahemadri@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/hemadri116](https://linkedin.com/in/hemadri116)  
+📱 **Phone:** +91-8328204221  
+📍 **Location:** Hyderabad, India
+
+---
+
+## 💡 Open to Opportunities
+
+I'm actively seeking **Junior Developer** or **Associate Software Engineer** roles where I can:
+- Apply my problem-solving skills in real-world projects
+- Grow expertise in microservices and scalable system design
+- Collaborate with talented teams
+- Continue learning modern development practices
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemadri116&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemadri116&layout=compact&theme=github_dark)
+
+---
+
+⭐ If you find my projects interesting, please don't forget to star them and follow for more!
+
+**Last Updated:** March 2025
