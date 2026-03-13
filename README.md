@@ -213,16 +213,3 @@ I'm actively seeking **Junior Developer** or **Associate Software Engineer** rol
 - Collaborate with talented teams
 - Continue learning modern development practices
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemadri116&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemadri116&layout=compact&theme=github_dark)
-
----
-
-⭐ If you find my projects interesting, please don't forget to star them and follow for more!
-
-**Last Updated:** March 2025
